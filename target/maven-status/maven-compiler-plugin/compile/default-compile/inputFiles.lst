@@ -1,0 +1,11 @@
+/Users/myuser/TEC/workspace/qiita-app/src/main/java/com/example/demo/controller/rest/QiitaRestController.java
+/Users/myuser/TEC/workspace/qiita-app/src/main/java/com/example/demo/domain/QiitaItem.java
+/Users/myuser/TEC/workspace/qiita-app/src/main/java/com/example/demo/controller/QiitaScheduleController.java
+/Users/myuser/TEC/workspace/qiita-app/src/main/java/com/example/demo/controller/QiitaWebController.java
+/Users/myuser/TEC/workspace/qiita-app/src/main/java/com/example/demo/config/QiitaConfig.java
+/Users/myuser/TEC/workspace/qiita-app/src/main/java/com/example/demo/repository/RestComponent.java
+/Users/myuser/TEC/workspace/qiita-app/src/main/java/com/example/demo/QiitaApplication.java
+/Users/myuser/TEC/workspace/qiita-app/src/main/java/com/example/demo/param/QiitaParam.java
+/Users/myuser/TEC/workspace/qiita-app/src/main/java/com/example/demo/repository/QiitaRepository.java
+/Users/myuser/TEC/workspace/qiita-app/src/main/java/com/example/demo/config/RestTemplateConfig.java
+/Users/myuser/TEC/workspace/qiita-app/src/main/java/com/example/demo/service/QiitaService.java

@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.demo.param.QiitaParam",
+      "name": "qiita.param",
+      "type": "com.example.demo.param.QiitaParam"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.demo.param.QiitaParam",
+      "name": "qiita.param.limit",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.example.demo.param.QiitaParam",
+      "name": "qiita.param.url",
+      "type": "java.lang.String"
+    }
+  ]
+}
